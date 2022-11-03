@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Ravi bhalgariya</title>
+	<table cellspacing="10px">
+		<tr>
+			<td><img src="img/ravi.jpg" width="200px" height="100px" alt="Ravi bhalgariya"></td>
+			<td>
+	<h1>Ravi Bhalgariya</h1>
+	<p><em> <a href="https://wordpress.com/">jr. worldpress developer</a></em></p>
+	<p>i am from junagasdh and i am working with style and other things</p></td>
+		</tr>
+		</table>	
+	
+	<hr>
+	<h2>Books and Teaching</h2>
+	<ul>
+		<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software</li>
+		<li>with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</li>
+		<li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</li>
+	</ul>
+<hr>
+	<h3>My work experience</h3>
+   <table border="1px">
+   	<tr>
+   		<th>Time</th>
+   	    <th>work</th>
+   	 </tr>   
+    <tr>
+    	<td>2010</td>
+    	<td>As a web deveolper work in india</td>
+    </tr>
+    <tr>
+    	<td>2025</td>
+    	<td>working in usa as an stenographer</td>
+    </tr>	
+   </table >
+
+	<a href="hobbies.php">my Hobbies</a>
+<hr>
+<h3>Skills</h3>
+	<table border="1px" cellspacing="10px">
+		<tr>
+			<td>IOS Developer 🎁🎁🎁🎁🎁</td>
+			<td>Web developer 🎁🎁🎁🎁</td>
+		</tr>
+		</table>	
+<body>
+
+</body>
+</html>
